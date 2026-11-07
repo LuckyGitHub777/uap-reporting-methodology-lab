@@ -1,6 +1,8 @@
 # UAP Reporting — Methodology Lab
 
-A small offline teaching kit for analyzing **report records**, rather than claiming to verify physical events. It provides synthetic-record generation, elementary statistics, and guides to date interpretation, sampling limits and responsible conclusions.
+**Explore online:** [Open the interactive browser companion](https://luckygithub777.github.io/uap-reporting-methodology-lab/). The hosted companion explains the ideas; the Python CLI and tests remain separate source tools.
+
+An educational teaching kit with an interactive online companion for analyzing **report records**, rather than claiming to verify physical events. It provides synthetic-record generation, elementary statistics, and guides to date interpretation, sampling limits and responsible conclusions.
 
 ## Try it
 
