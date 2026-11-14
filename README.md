@@ -15,4 +15,4 @@ python -m unittest discover -s tests -v
 
 All generated reports are **fictional**. Trends in fabricated data cannot establish actual events, causes, geographic risks, or population prevalence. The code uses no telemetry or data uploads.
 
-**License and attribution:** The included MIT [LICENSE](LICENSE) preserves the original contributors' copyright notice. [MANIFEST.sha256](MANIFEST.sha256) records the exact released source files.
+**License and attribution:** The included MIT [LICENSE](LICENSE) applies, including its contributors' copyright notice. [MANIFEST.sha256](MANIFEST.sha256) records the exact released source files.
